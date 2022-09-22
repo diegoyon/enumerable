@@ -1,8 +1,8 @@
 ## Enumerable
 
-> This is a project about creating a enumerable module and how to use this module inside a class. Buil with Ruby.
-
 ## Getting Started
+
+> This is a project about creating a enumerable module and how to use this module inside a class. Buil with Ruby.
 
 ## Authors
 
