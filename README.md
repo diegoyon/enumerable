@@ -14,9 +14,9 @@
 
 👤 **Alzubair Alqaraghuli**
 
-- GitHub: [@diegoyon](https://github.com/Alzubair98)
-- Twitter: [@diegoyon](https://twitter.com/FitZubair)
-- LinkedIn: [Diego Yon](https://www.linkedin.com/in/alzubair-alqaraghuli-272918233/)
+- GitHub: [@Alzubair](https://github.com/Alzubair98)
+- Twitter: [@Alzubair](https://twitter.com/FitZubair)
+- LinkedIn: [Alzubair](https://www.linkedin.com/in/alzubair-alqaraghuli-272918233/)
 
 ## 🤝 Contributing
 
